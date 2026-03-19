@@ -4,7 +4,7 @@
 
 **Ders:** BMH-61 — Bilgisayar Mühendisliği Proje  
 **Danışman:** Dr. Öğr. Üyesi Mehmet Karabulut  
-**Ekip:** Ramazan Acar · Anıl Mert Temel · Emin Hayrettin Coşar  
+**Ekip:** · Anıl Mert Temel ·Ramazan Acar · Emin Hayrettin Coşar  
 **Yıl:** 2024
 
 ---
